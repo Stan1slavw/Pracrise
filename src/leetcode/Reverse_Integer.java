@@ -1,4 +1,4 @@
-package hackerrank;
+package leetcode;
 
 public class Reverse_Integer {
     public int reverse(int x) {
